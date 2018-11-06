@@ -3,11 +3,25 @@
   "name": "TopIcons Plus",
   "gettext-domain": "TopIcons-Plus",
   "shell-version": [
+<<<<<<< HEAD
     "3.28",
     "3.30"
   ], 
+=======
+    "3.16",
+    "3.18",
+    "3.20",
+    "3.21.91",
+    "3.22",
+    "3.23",
+    "3.24",
+    "3.26",
+    "3.28",
+    "3.30"
+  ],
+>>>>>>> 6470a3806802e82218572e411f91d1bc3ef29558
   "settings-schema": "org.gnome.shell.extensions.topicons",
   "url": "https://github.com/phocean/TopIcons-plus",
   "uuid": "TopIcons@phocean.net",
-  "version": 21
+  "version": 22
 }
